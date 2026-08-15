@@ -16,7 +16,7 @@ The project uses multiple interconnected datasets:
 - **Stores**: Store information with geographical locations and operational details
 - **Exchange Rates**: Currency conversion rates for multi-currency analysis
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Global-Electronics-Retailer/

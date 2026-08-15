@@ -2,11 +2,11 @@
 
 A comprehensive data analysis project for a fictitious global electronics retailer, featuring sales transactions, product information, customer demographics, store locations, and currency exchange rates.
 
-## 📊 Project Overview
+## Project Overview
 
 This project provides end-to-end analysis of a global electronics retail business, leveraging Databricks for data processing and visualization. The analysis covers sales performance, customer behavior, product trends, and geographical insights.
 
-## 🗂️ Dataset Description
+## Dataset Description
 
 The project uses multiple interconnected datasets:
 
@@ -26,21 +26,13 @@ Global-Electronics-Retailer/
 └── Global Electronics Analysis.ipynb  # Main analysis notebook
 ```
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Databricks workspace access
-- Unity Catalog enabled
-- Serverless compute (automatically selected)
-
 ### Setup
 
 1. Clone this repository to your Databricks workspace
 2. Open the `Global Electronics Analysis.ipynb` notebook
 3. Run the cells to perform the analysis
 
-## 📈 Analysis Components
+## Analysis Components
 
 The analysis notebook includes:
 
@@ -74,13 +66,10 @@ The analysis notebook includes:
 ## 🛠️ Technologies Used
 
 - **Databricks**: Unified analytics platform
-- **Unity Catalog**: Data governance and management
 - **Apache Spark**: Distributed data processing
-- **Python**: Primary programming language
 - **SQL**: Data querying and transformation
-- **PySpark**: Spark Python API
 
-## 📊 Key Metrics
+## Key Metrics
 
 The analysis tracks:
 - Total Revenue
@@ -89,19 +78,3 @@ The analysis tracks:
 - Product Performance
 - Regional Sales Distribution
 - Time-based Trends
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the terms specified in the LICENSE file.
-
-## 📧 Contact
-
-For questions or feedback about this analysis project, please open an issue in the repository.
-
----
-
-**Note**: This is an educational/demonstration project using fictitious data for a global electronics retailer.
